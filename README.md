@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. In the `settings.json` settings file for Windows Terminal, find the `schemes` section and paste the content of `vague.json` file.
+1. In the `settings.json` settings file for Windows Terminal, find the `schemes` section and paste the content of [vague.json](vague.json) file.
 
 2. Find the `profiles` section and add a `colorScheme` value to the default profile.
    ```json
